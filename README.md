@@ -1,5 +1,5 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-NAME : GEETHU R
+### NAME : GEETHU R
 
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
